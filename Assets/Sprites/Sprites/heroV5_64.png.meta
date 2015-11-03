@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 2fa6936f8fedb3e49a8ab4fee47b3232
+timeCreated: 1445607047
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heroV5_64_0
+    21300002: heroV5_64_1
+    21300004: heroV5_64_2
+    21300006: heroV5_64_3
+    21300008: heroV5_64_4
+    21300010: heroV5_64_5
+    21300012: heroV5_64_6
+    21300014: heroV5_64_7
+    21300016: heroV5_64_8
+    21300018: heroV5_64_9
+    21300020: heroV5_64_10
+    21300022: heroV5_64_11
+    21300024: heroV5_64_12
+    21300026: heroV5_64_13
+    21300028: heroV5_64_14
+    21300030: heroV5_64_15
+    21300032: heroV5_64_16
+    21300034: heroV5_64_17
+    21300036: heroV5_64_18
+    21300038: heroV5_64_19
+    21300040: heroV5_64_20
+    21300042: heroV5_64_21
+    21300044: heroV5_64_22
+    21300046: heroV5_64_23
+    21300048: heroV5_64_24
+    21300050: heroV5_64_25
+    21300052: heroV5_64_26
+    21300054: heroV5_64_27
+    21300056: heroV5_64_28
+    21300058: heroV5_64_29
+    21300060: heroV5_64_30
+    21300062: heroV5_64_31
+    21300064: heroV5_64_32
+    21300066: heroV5_64_33
+    21300068: heroV5_64_34
+    21300070: heroV5_64_35
+    21300072: heroV5_64_36
+    21300074: heroV5_64_37
+    21300076: heroV5_64_38
+    21300078: heroV5_64_39
+    21300080: heroV5_64_40
+    21300082: heroV5_64_41
+    21300084: heroV5_64_42
+    21300086: heroV5_64_43
+    21300088: heroV5_64_44
+    21300090: heroV5_64_45
+    21300092: heroV5_64_46
+    21300094: heroV5_64_47
+    21300096: heroV5_64_48
+    21300098: heroV5_64_49
+    21300100: heroV5_64_50
+    21300102: heroV5_64_51
+    21300104: heroV5_64_52
+    21300106: heroV5_64_53
+    21300108: heroV5_64_54
+    21300110: heroV5_64_55
+    21300112: heroV5_64_56
+    21300114: heroV5_64_57
+    21300116: heroV5_64_58
+    21300118: heroV5_64_59
+    21300120: heroV5_64_60
+    21300122: heroV5_64_61
+    21300124: heroV5_64_62
+    21300126: heroV5_64_63
+    21300128: heroV5_64_64
+    21300130: heroV5_64_65
+    21300132: heroV5_64_66
+    21300134: heroV5_64_67
+    21300136: heroV5_64_68
+    21300138: heroV5_64_69
+    21300140: heroV5_64_70
+    21300142: heroV5_64_71
+    21300144: heroV5_64_72
+    21300146: heroV5_64_73
+    21300148: heroV5_64_74
+    21300150: heroV5_64_75
+    21300152: heroV5_64_76
+    21300154: heroV5_64_77
+    21300156: heroV5_64_78
+    21300158: heroV5_64_79
+    21300160: heroV5_64_80
+    21300162: heroV5_64_81
+    21300164: heroV5_64_82
+    21300166: heroV5_64_83
+    21300168: heroV5_64_84
+    21300170: heroV5_64_85
+    21300172: heroV5_64_86
+    21300174: heroV5_64_87
+    21300176: heroV5_64_88
+    21300178: heroV5_64_89
+    21300180: heroV5_64_90
+    21300182: heroV5_64_91
+    21300184: heroV5_64_92
+    21300186: heroV5_64_93
+    21300188: heroV5_64_94
+    21300190: heroV5_64_95
+    21300192: heroV5_64_96
+    21300194: heroV5_64_97
+    21300196: heroV5_64_98
+    21300198: heroV5_64_99
+    21300200: heroV5_64_100
+    21300202: heroV5_64_101
+    21300204: heroV5_64_102
+    21300206: heroV5_64_103
+    21300208: heroV5_64_104
+    21300210: heroV5_64_105
+    21300212: heroV5_64_106
+    21300214: heroV5_64_107
+    21300216: heroV5_64_108
+    21300218: heroV5_64_109
+    21300220: heroV5_64_110
+    21300222: heroV5_64_111
+    21300224: heroV5_64_112
+    21300226: heroV5_64_113
+    21300228: heroV5_64_114
+    21300230: heroV5_64_115
+    21300232: heroV5_64_116
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: heroV5_64_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1154
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1152
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1154
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1152
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1088
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1090
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1088
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1090
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1026
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1024
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1026
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1024
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1042
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 960
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 962
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 992
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 960
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 956
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 983
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 898
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 898
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 898
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 834
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 834
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 834
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 834
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 770
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 770
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 770
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 770
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 706
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 717
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 653
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_51
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 642
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 578
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 576
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 578
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 514
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 514
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_62
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 450
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 386
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 386
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_77
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 386
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_78
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 339
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 322
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_84
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 323
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_88
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 258
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_92
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 258
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_93
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 192
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_102
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 130
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 129
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_106
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_108
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 129
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_111
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_112
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 63
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_115
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_116
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 126
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroV5_64_74
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 386
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

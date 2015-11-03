@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: 34b58537be4566748a9ec2ef8423ef20
+timeCreated: 1445680889
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: guardBlue64_0
+    21300002: guardBlue64_1
+    21300004: guardBlue64_2
+    21300006: guardBlue64_3
+    21300008: guardBlue64_4
+    21300010: guardBlue64_5
+    21300012: guardBlue64_6
+    21300014: guardBlue64_7
+    21300016: guardBlue64_8
+    21300018: guardBlue64_9
+    21300020: guardBlue64_10
+    21300022: guardBlue64_11
+    21300024: guardBlue64_12
+    21300026: guardBlue64_13
+    21300028: guardBlue64_14
+    21300030: guardBlue64_15
+    21300032: guardBlue64_16
+    21300034: guardBlue64_17
+    21300036: guardBlue64_18
+    21300038: guardBlue64_19
+    21300040: guardBlue64_20
+    21300042: guardBlue64_21
+    21300044: guardBlue64_22
+    21300046: guardBlue64_23
+    21300048: guardBlue64_24
+    21300050: guardBlue64_25
+    21300052: guardBlue64_26
+    21300054: guardBlue64_27
+    21300056: guardBlue64_28
+    21300058: guardBlue64_29
+    21300060: guardBlue64_30
+    21300062: guardBlue64_31
+    21300064: guardBlue64_32
+    21300066: guardBlue64_33
+    21300068: guardBlue64_34
+    21300070: guardBlue64_35
+    21300072: guardBlue64_36
+    21300074: guardBlue64_37
+    21300076: guardBlue64_38
+    21300078: guardBlue64_39
+    21300080: guardBlue64_40
+    21300082: guardBlue64_41
+    21300084: guardBlue64_42
+    21300086: guardBlue64_43
+    21300088: guardBlue64_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: guardBlue64_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 641
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 642
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 642
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 641
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 577
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 578
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 578
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 577
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 520
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 524
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 520
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 455
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 460
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 456
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 460
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 380
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 381
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 382
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 380
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 257
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 280
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 180
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_30
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 198
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 199
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 65
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 65
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guardBlue64_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
