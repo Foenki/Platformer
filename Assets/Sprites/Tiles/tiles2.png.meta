@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: bb0137397ecb83c498cc2e3ddd03dc6a
-timeCreated: 1445870579
+timeCreated: 1448203265
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -307,7 +307,7 @@ TextureImporter:
         height: 29
       alignment: 0
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 4}
     - name: tiles2_26
       rect:
         serializedVersion: 2
@@ -344,7 +344,7 @@ TextureImporter:
         x: 63
         y: 448
         width: 66
-        height: 64
+        height: 24
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}

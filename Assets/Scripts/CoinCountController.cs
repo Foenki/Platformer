@@ -4,11 +4,12 @@ using System.Collections;
 
 public class CoinCountController : MonoBehaviour {
 
-    static int count = 0;
+    static int count;
     Text text;
 
 	// Use this for initialization
 	void Start () {
+        count = 0;
         text = GetComponent<Text>();
 	}
 	

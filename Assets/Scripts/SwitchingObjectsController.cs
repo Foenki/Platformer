@@ -14,10 +14,14 @@ public class SwitchingObjectsController : MonoBehaviour {
         if (!active)
         {
             spriteColor.a = transparency;
+            spriteColor = new Color(0.35f,0.35f,0.35f,1);
+
         }
         else
         {
             spriteColor.a = 1f;
+
+
         }
         GetComponent<SpriteRenderer>().color = spriteColor;
     }
@@ -34,10 +38,13 @@ public class SwitchingObjectsController : MonoBehaviour {
             if (!active)
             {
                 spriteColor.a = transparency;
+				spriteColor = new Color(0.35f, 0.35f, 0.35f, 1);
+
             }
             else
             {
                 spriteColor.a = 1f;
+				spriteColor = Color.white;
             }
             GetComponent<SpriteRenderer>().color = spriteColor;
         }

@@ -1,8 +1,9 @@
 ﻿using UnityEngine;
-using UnityEditor;
 using System.Collections;
 
 [RequireComponent(typeof(Collider2D))]
+[RequireComponent(typeof(AudioSource))]
+
 public class CheckpointController : MonoBehaviour {
 
     public GameObject checkpointAssociated;
@@ -10,7 +11,7 @@ public class CheckpointController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start() {
-
+		
 	}
 	
 	// Update is called once per frame
@@ -22,5 +23,7 @@ public class CheckpointController : MonoBehaviour {
     {
         PlayerController.checkpointLocation = checkpointAssociated.transform.position;
         particle.startColor = Color.green;
+		GetComponent<AudioSource>().enabled = true;
+		
     }
 }

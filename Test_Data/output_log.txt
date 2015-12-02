@@ -1,0 +1,84 @@
+Mono path[0] = 'C:/Users/Asus/Documents/Unity Projects/Platformer/Test_Data/Managed'
+Mono path[1] = 'C:/Users/Asus/Documents/Unity Projects/Platformer/Test_Data/Mono'
+Mono config path = 'C:/Users/Asus/Documents/Unity Projects/Platformer/Test_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Asus/Documents/Unity Projects/Platformer/Test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55136
+Multi-casting "[IP] 10.14.153.234 [Port] 55136 [Flags] 2 [Guid] 234937719 [EditorId] 4153403728 [Version] 1048832 [Id] WindowsPlayer(Asus-pc) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [10.14.153.234:55136]
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.621 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Asus\Documents\Unity Projects\Platformer\Test_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: fdc -> priority: 1 
+Joystick connected ("Controller (XBOX 360 For Windows)").
+ 
+(Filename: C:/buildslave/unity/build/PlatformDependent/Win/RawInput.cpp Line: 1353)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.450081 ms
+System memory in use before: 51.7 MB.
+System memory in use after: 51.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1153.
+Total: 0.523812 ms (FindLiveObjects: 0.065247 ms CreateObjectMapping: 0.031524 ms MarkObjects: 0.406147 ms  DeleteObjects: 0.019794 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.084281 ms
+System memory in use before: 51.4 MB.
+System memory in use after: 51.4 MB.
+
+Unloading 87 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.561935 ms (FindLiveObjects: 0.018694 ms CreateObjectMapping: 0.015028 ms MarkObjects: 0.255491 ms  DeleteObjects: 0.271253 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.575131 ms
+System memory in use before: 69.0 MB.
+System memory in use after: 69.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 0.359961 ms (FindLiveObjects: 0.030424 ms CreateObjectMapping: 0.023093 ms MarkObjects: 0.288482 ms  DeleteObjects: 0.017228 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.528184 ms
+System memory in use before: 68.9 MB.
+System memory in use after: 68.9 MB.
+
+Unloading 84 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.546906 ms (FindLiveObjects: 0.015395 ms CreateObjectMapping: 0.015028 ms MarkObjects: 0.247060 ms  DeleteObjects: 0.268687 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.553504 ms
+System memory in use before: 72.8 MB.
+System memory in use after: 72.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 721.
+Total: 0.363993 ms (FindLiveObjects: 0.033356 ms CreateObjectMapping: 0.023093 ms MarkObjects: 0.289215 ms  DeleteObjects: 0.017594 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.309349 ms
+System memory in use before: 72.7 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 283.
+Total: 0.557902 ms (FindLiveObjects: 0.017961 ms CreateObjectMapping: 0.015028 ms MarkObjects: 0.245228 ms  DeleteObjects: 0.278951 ms)
+

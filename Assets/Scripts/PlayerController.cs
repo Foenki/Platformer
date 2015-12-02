@@ -178,8 +178,7 @@ public class PlayerController : MonoBehaviour
         explosion.GetComponent<AudioSource>().enabled = true;
         Destroy(explosion, 1.6f);
         transform.position = checkpointLocation;
-        velocity.x = 0;
-        velocity.y = 0;
+        velocity = new Vector2(0f , 0f);
     }
 
 
